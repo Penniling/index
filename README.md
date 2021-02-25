@@ -7,4 +7,5 @@ Penniling on Social Media:
 Pages:
 - [Bitcoin](https://penniling.github.io/index/bitcoin)
 
-Follow @Shanox17 and @TimTrayler
+
+*[In Cooperation with Tim Trayler](htts://github.com/timtrayler)*
