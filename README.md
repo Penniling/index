@@ -8,4 +8,4 @@ Pages:
 - [Bitcoin](https://penniling.github.io/index/bitcoin)
 
 
-<span style="color: #8a8a8a;">*[In Cooperation with Tim Trayler](https://github.com/timtrayler)*</span>
+<span style="color: #8a8a8a;"><a href="https://github.com/TimTrayler" style="text-decoration: none">*In Cooperation with Tim Trayler*</a></span>
