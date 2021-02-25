@@ -5,4 +5,4 @@ Penniling on Social Media:
 - [Instagram](https://www.instagram.com/pennpenniling/)
 
 Pages:
-- [Bitcoin](/bitcoin)
+- [Bitcoin](https://penniling.github.io/index/bitcoin)
