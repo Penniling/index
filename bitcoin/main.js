@@ -1,5 +1,4 @@
 function getKurs() {
-    window.location.href = "https://www.shanox.de/.mp4"
     var x = new XMLHttpRequest();
     x.onreadystatechange = function() {
         if(x.readyState == x.DONE && x.status == 200) {
