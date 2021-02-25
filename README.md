@@ -3,3 +3,6 @@
 Penniling on Social Media:
 - [Twitter](https://twitter.com/PennPenniling)
 - [Instagram](https://www.instagram.com/pennpenniling/)
+
+Pages:
+- [Bitcoin](/bitcoin)
